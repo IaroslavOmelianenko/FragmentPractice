@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">FragmentPractice</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="A">A</string>
+    <string name="fragment">Fragment</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="text_from_fragment_b">Text from fragment B</string>
+    <string name="d">D</string>
+    <string name="text_for_fragment_c">Text for fragment C</string>
 </resources>
